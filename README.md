@@ -65,19 +65,6 @@ Hack the Problem, Secure the Future.
 <img src="https://skillicons.dev/icons?i=python,linux,aws,docker,kubernetes,bash,git,github,html,css,js,bootstrap,mysql,vscode"/>
 
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amansitlab-cloud&show_icons=true&theme=chartreuse-dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansitlab-cloud&layout=compact&theme=chartreuse-dark"/>
-
-</p>
-
 ---
 
 # 📈 Contribution Graph
@@ -138,7 +125,7 @@ Hack the Problem, Secure the Future.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aman-sharma-0aab832a1/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -146,11 +133,11 @@ Hack the Problem, Secure the Future.
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amansitlab@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/amansitlab-cloud">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
