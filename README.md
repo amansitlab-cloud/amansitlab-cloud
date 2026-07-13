@@ -72,9 +72,9 @@ Hack the Problem, Secure the Future.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amansitlab-cloud&show_icons=true&theme=chartreuse-dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansitlab-cloud&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
@@ -84,7 +84,7 @@ Hack the Problem, Secure the Future.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark"/>
+<img src="https://streak-stats.demolab.com?user=amansitlab-cloud&theme=chartreuse-dark"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Hack the Problem, Secure the Future.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=chartreuse-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansitlab-cloud&theme=chartreuse-dark"/>
 
 </p>
 
@@ -104,7 +104,7 @@ Hack the Problem, Secure the Future.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amansitlab-cloud&theme=matrix&row=1&column=7"/>
 
 </p>
 
