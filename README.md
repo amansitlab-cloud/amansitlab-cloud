@@ -125,7 +125,7 @@ Hack the Problem, Secure the Future.
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aman-sharma-0aab832a1/)">
+<a href="https://www.linkedin.com/in/aman-sharma-0aab832a1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
