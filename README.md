@@ -80,31 +80,11 @@ Hack the Problem, Secure the Future.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amansitlab-cloud&theme=chartreuse-dark"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansitlab-cloud&theme=chartreuse-dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amansitlab-cloud&theme=matrix&row=1&column=7"/>
 
 </p>
 
