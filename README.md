@@ -1,28 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00ff41,50:0f0f0f,100:00ff41&text=Lalit%20Gurjar&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20Python%20%7C%20AWS%20%7C%20DevOps&descAlignY=58"/>
+# 👋 Hi, I'm Aman Sharma
+
+### 🚀 Cyber Security Trainer | Ethical Hacker | Python Developer | AWS & DevOps Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=900&lines=Cyber+Security+Trainer;Ethical+Hacker;Python+Developer;Linux+Administrator;AWS+Cloud+Engineer;DevOps+Enthusiast;Open+Source+Contributor" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=220&section=header&text=Aman%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=brightgreen" />
 
 </div>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Cyber+Security+Trainer;Ethical+Hacker;Python+Developer;AWS+Cloud+Engineer;Linux+Administrator;DevOps+Learner;Open+Source+Contributor"/>
-
-</p>
-
 ---
 
-# 👨‍💻 About Me
+# 💻 About Me
 
 ```yaml
-Name      : Lalit Gurjar
-Role      : Cyber Security Trainer
-Experience: 8+ Years
-Language  : Python | Bash | JavaScript
-OS        : Linux | Windows
-Focus     : Ethical Hacking
-Cloud     : AWS
-Learning  : AI Automation
+Name        : Aman Sharma
+Role        : Cyber Security Trainer
+Experience  : 8+ Years
+Skills      : Cyber Security | Ethical Hacking | Python
+Cloud       : AWS
+OS          : Linux | Windows
+Networking  : CCNA | RHCE
+Interests   : AI | Automation | DevOps
+Mission     : Learn • Build • Teach • Secure
 ```
 
 ---
@@ -30,33 +35,34 @@ Learning  : AI Automation
 # ⚡ Hacker Terminal
 
 ```bash
-> whoami
+┌──(root㉿aman)-[~/profile]
+└─$ whoami
 
-Lalit Gurjar
+Aman Sharma
 
-> sudo skills
+└─$ skills
 
-Cyber Security
-Ethical Hacking
-Linux
-Python
-AWS
-Networking
-DevOps
-Automation
+✔ Cyber Security
+✔ Ethical Hacking
+✔ Python
+✔ Linux
+✔ AWS
+✔ DevOps
+✔ Networking
+✔ Automation
 
-> sudo motivation
+└─$ motto
 
-Never Stop Learning.
+Hack the Problem, Secure the Future.
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,aws,docker,kubernetes,git,github,bash,html,css,js,bootstrap,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,linux,aws,docker,kubernetes,bash,git,github,html,css,js,bootstrap,mysql,vscode"/>
 
 </p>
 
@@ -66,9 +72,9 @@ Never Stop Learning.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=chartreuse-dark&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=chartreuse-dark&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
@@ -78,7 +84,7 @@ Never Stop Learning.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark"/>
 
 </p>
 
@@ -88,77 +94,67 @@ Never Stop Learning.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=chartreuse-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=chartreuse-dark"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Animation
+# 🛠 Featured Skills
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ⌚ WakaTime
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=chartreuse-dark"/>
-
-</p>
+| Domain | Technologies |
+|--------|--------------|
+| 🔐 Cyber Security | Kali Linux, Wireshark, Burp Suite, Nmap |
+| ☁ Cloud | AWS EC2, IAM, S3 |
+| 🐍 Programming | Python, Bash |
+| 🌐 Networking | TCP/IP, DNS, DHCP, Routing |
+| 🐧 Linux | RHCE, Shell Scripting |
+| 🚀 DevOps | Docker, Kubernetes, Git |
 
 ---
 
-# 💻 Coding Profiles
+# 📂 Featured Projects
 
-<p align="center">
+⭐ Cyber Security Toolkit
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"/>
-</a>
+⭐ Student Management System
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
+⭐ Python Automation Scripts
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
-</a>
+⭐ Linux Administration Scripts
 
-</p>
+⭐ AWS Labs
 
----
+⭐ Networking Labs
 
-# 📺 Latest YouTube Videos
+⭐ YouTube Playlist Downloader
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+⭐ Ethical Hacking Notes
 
 ---
 
-# 📰 Latest Blog Posts
+# 📚 Currently Learning
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Artificial Intelligence
+- Cloud Security
+- Kubernetes
+- Advanced DevOps
+- Red Teaming
+- Malware Analysis
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -170,30 +166,28 @@ Never Stop Learning.
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Visitors
+# 💡 Quote
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen"/>
-
-</p>
+> **"Security is not a product, it's a process."**
 
 ---
 
 <div align="center">
 
-## ⚡ "Hack the System. Secure the Future."
+### ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=120&section=footer"/>
 
 </div>
