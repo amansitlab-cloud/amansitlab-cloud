@@ -1,116 +1,498 @@
-<div align="center">
+<!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Aman&fontSize=70&fontColor=00ff41&fontAlignY=35&desc=Cybersecurity%20Instructor%20%7C%20Ethical%20Hacker%20%7C%20Linux%20%26%20Code&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<!--       HACKER HEADER       -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+Aman;Cybersecurity+%26+Ethical+Hacking+Instructor;RHEL+%7C+Linux+%7C+Python+%7C+Java;Founder+%40+TCA+-+The+Cyber+Academy;sudo+make+students --job-ready" alt="Typing SVG" />
+<!-- ========================= -->
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=AMAN%20SHARMA&fontSize=55&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=CYBER%20SECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=58&descSize=17"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/STATUS-root%40kali%3A~%23-00ff41?style=flat-square&labelColor=0d1117)
+<!-- ========================= -->
 
-</div>
+<!--       TYPING EFFECT       -->
+
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=+root%40aman%3A~%24+whoami;Cyber+Security+%7C+Ethical+Hacking;AWS+%7C+DevOps+%7C+Linux+%7C+Networking;Python+%7C+Automation+%7C+Cloud+Security;Trainer+%7C+Technology+Enthusiast;Learn+%7C+Break+%7C+Build+%7C+Secure"/>
+</p>
+
+<br>
+
+<!-- ========================= -->
+
+<!--          BADGES           -->
+
+<!-- ========================= -->
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=000000"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=00ff41&labelColor=000000"/>
+
+</p>
 
 ---
 
-### `> cat about_me.txt`
+# 🟢 `$ whoami`
 
 ```bash
-[+] Name        : Aman
-[+] Role        : Cybersecurity & Ethical Hacking Instructor
-[+] Focus       : CEH, Linux (RHEL), Python, Java, System Administration
-[+] Mission     : Turning students into industry-ready hackers & sysadmins
-[+] Currently   : Building course content @ TCA - The Cyber Academy
-[+] Fun fact    : I teach machines to behave, and hackers to behave ethically 😉
+┌──(aman㉿cyberlab)-[~]
+└─$ whoami
+
+Aman Sharma
+
+┌──(aman㉿cyberlab)-[~]
+└─$ cat about_me.txt
+
+[+] Cyber Security Professional
+[+] Ethical Hacking Enthusiast
+[+] AWS Cloud Practitioner
+[+] DevOps & Automation Enthusiast
+[+] Linux & Networking Specialist
+[+] Python Developer
+[+] Technical Trainer
+
+┌──(aman㉿cyberlab)-[~]
+└─$ echo $MISSION
+
+"Learn. Practice. Build. Secure."
 ```
 
 ---
 
-<h3 align="center">⚡ Tech Arsenal</h3>
+# 🔐 `$ cat profile.conf`
 
-<div align="center">
+```yaml
+name: Aman Sharma
 
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+role:
+  - Cyber Security
+  - Ethical Hacking
+  - Cloud & DevOps
+  - Technical Trainer
 
-</div>
+focus:
+  - Cyber Security
+  - Cloud Security
+  - Network Security
+  - DevSecOps
+  - Automation
 
----
+operating_system:
+  - Linux
+  - Windows
+  - Kali Linux
+  - RHEL
 
-<h3 align="center">📡 Live Terminal Feed</h3>
+languages:
+  - Python
+  - Bash
+  - JavaScript
+  - SQL
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/octocat.svg" width="0" height="0"/>
+cloud:
+  - AWS
 
-<pre align="center">
-$ nmap -sV --top-ports 5 aman.dev
+devops:
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitLab
+  - Terraform
+  - Ansible
 
-STARTING SCAN...
-PORT     STATE  SERVICE
-22/tcp   open   ssh          -> always learning
-80/tcp   open   http         -> always teaching
-443/tcp  open   https        -> always securing
-1337/tcp open   elite        -> always hacking (ethically)
-9999/tcp open   unknown      -> always debugging
-
-SCAN COMPLETE: Aman is online and shipping knowledge 🟢
-</pre>
-</div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="49%"/>
-
-</div>
+monitoring:
+  - Prometheus
+  - Grafana
+```
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+# 🧠 `$ ./skills.sh`
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+```text
+CYBER SECURITY
+████████████████████████████████████████ 100%
 
-<sub>⚙️ Snake animation needs a one-time GitHub Action setup — mention it below and I'll set that up too.</sub>
-</div>
+ETHICAL HACKING
+██████████████████████████████████████░░  95%
+
+LINUX
+██████████████████████████████████████░░  95%
+
+NETWORKING
+██████████████████████████████████████░░  95%
+
+AWS
+████████████████████████████████████░░░░  90%
+
+DEVOPS
+████████████████████████████████████░░░░  90%
+
+PYTHON
+██████████████████████████████████░░░░░░  85%
+
+AUTOMATION
+██████████████████████████████████░░░░░░  85%
+```
 
 ---
 
-<h3 align="center">🔗 Connect With Me</h3>
+# ⚔️ Cyber Security Arsenal
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
-[![Website](https://img.shields.io/badge/-TCA%20Website-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-tca-site.example.com)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python"/>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=00FF41"/>
+
+</p>
 
 ---
 
-<div align="center">
+# 🌐 Networking
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
+```text
+                         INTERNET
+                             │
+                             ▼
+                    ┌────────────────┐
+                    │    FIREWALL    │
+                    └───────┬────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+        ┌─────────┐   ┌──────────┐   ┌─────────┐
+        │  ROUTER │   │  SWITCH  │   │   VPN   │
+        └────┬────┘   └────┬─────┘   └─────────┘
+             │             │
+       ┌─────┴─────┐   ┌───┴────┐
+       ▼           ▼   ▼        ▼
+    SERVER       CLIENT  VLAN   WLAN
+```
 
-<sub>🟢 <i>"Ethical hacking is not about breaking things — it's about understanding them better than anyone who'd want to break them."</i> — Aman</sub>
+### Networking Stack
 
-</div>
+`TCP/IP` • `IPv4` • `IPv6` • `VLAN` • `Trunking` • `STP` • `OSPF` • `NAT` • `DHCP` • `DNS` • `VPN` • `Network Security`
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab"/>
+
+</p>
+
+```bash
+$ cloud --status
+
+AWS              [████████████████████] ONLINE
+Docker           [████████████████████] ONLINE
+Kubernetes       [██████████████████░░] ACTIVE
+Jenkins          [██████████████████░░] ACTIVE
+Terraform        [██████████████████░░] ACTIVE
+Ansible          [██████████████████░░] ACTIVE
+GitLab CI/CD     [██████████████████░░] ACTIVE
+```
+
+---
+
+# 🐍 Python & Automation
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs,mysql"/>
+
+</p>
+
+```python
+class AmanSharma:
+
+    def __init__(self):
+        self.focus = [
+            "Cyber Security",
+            "Automation",
+            "Cloud",
+            "DevOps",
+            "Python"
+        ]
+
+    def build(self):
+        return "Secure + Automate + Deploy"
+
+    def mission(self):
+        return "Keep Learning 🚀"
+```
+
+---
+
+# 🚀 Featured Projects
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                  PROJECT DATABASE                   │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│ 🔐 Cyber Security Lab                              │
+│    Web Security • Network Security • Linux         │
+│                                                     │
+│ ☁️ AWS Infrastructure                              │
+│    EC2 • S3 • IAM • VPC • Cloud Security           │
+│                                                     │
+│ 🐳 Docker Projects                                 │
+│    Containerization • Docker Compose               │
+│                                                     │
+│ ☸️ Kubernetes Lab                                  │
+│    Pods • Deployments • Services • PVC             │
+│                                                     │
+│ ⚙️ Ansible Automation                              │
+│    Server Provisioning • Configuration Management  │
+│                                                     │
+│ 🏗️ Terraform Infrastructure                        │
+│    Infrastructure as Code • AWS                    │
+│                                                     │
+│ 📊 Monitoring Stack                                │
+│    Prometheus • Grafana                            │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🎓 Trainer Mode
+
+```text
+                   ┌───────────────────┐
+                   │   AMAN SHARMA     │
+                   │   TECH TRAINER    │
+                   └─────────┬─────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+     CYBER SECURITY        CLOUD             DEVOPS
+          │                  │                  │
+     Ethical Hacking        AWS            Docker
+     Web Security           EC2            Kubernetes
+     Networking              S3            Jenkins
+     Linux                   IAM           Terraform
+     Security Tools          VPC            Ansible
+```
+
+I believe in **practical learning** — not just memorizing commands, but understanding what happens behind them.
+
+---
+
+# 🏆 Certifications & Learning
+
+```text
+╔══════════════════════════════════════════════╗
+║              CERTIFICATION STACK             ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  ✓ EC-Council Cyber Security                ║
+║  ✓ Red Hat Linux / RHCE                     ║
+║  ✓ AWS Cloud Computing                      ║
+║  ✓ DevOps                                   ║
+║  ✓ Cyber Security & Ethical Hacking         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Current Mission
+
+```bash
+┌──(aman㉿cyberlab)-[~/mission]
+└─$ ./mission.sh
+
+[✓] Master Cyber Security
+[✓] Strengthen Linux Skills
+[✓] Build AWS Infrastructure
+[✓] Automate with Ansible
+[✓] Containerize with Docker
+[✓] Deploy with Kubernetes
+[✓] Build CI/CD Pipelines
+[>] Learn DevSecOps
+[>] Cloud Security
+[>] Security Automation
+[>] Advanced Threat Detection
+```
+
+---
+
+# 🧩 Hacker Mindset
+
+```text
+               ┌────────────────────────┐
+               │       THINK            │
+               └───────────┬────────────┘
+                           │
+                           ▼
+               ┌────────────────────────┐
+               │       LEARN            │
+               └───────────┬────────────┘
+                           │
+                           ▼
+               ┌────────────────────────┐
+               │       PRACTICE          │
+               └───────────┬────────────┘
+                           │
+                           ▼
+               ┌────────────────────────┐
+               │       BREAK             │
+               └───────────┬────────────┘
+                           │
+                           ▼
+               ┌────────────────────────┐
+               │       FIX               │
+               └───────────┬────────────┘
+                           │
+                           ▼
+               ┌────────────────────────┐
+               │       SECURE            │
+               └────────────────────────┘
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41"/>
+</a>
+
+</p>
+
+---
+
+# 🖥️ Terminal Session
+
+```text
+┌──(aman㉿cyberlab)-[~]
+└─$ sudo ./start_career.sh
+
+[sudo] password for aman: ********
+
+Initializing Cyber Security Environment...
+
+[████████████████████████████████████] 100%
+
+Loading:
+  → Linux .................... OK
+  → Networking ............... OK
+  → Cyber Security ........... OK
+  → Ethical Hacking .......... OK
+  → AWS ...................... OK
+  → DevOps ................... OK
+  → Python ................... OK
+
+SYSTEM STATUS: ONLINE 🟢
+
+ACCESS LEVEL: ROOT 🔐
+
+Welcome, Aman Sharma.
+```
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+```text
+> ACCESS GRANTED
+> SYSTEM ONLINE
+> KEEP LEARNING
+> KEEP BUILDING
+> KEEP SECURING
+```
+
+### 🟢 `01001000 01000001 01000011 01001011`
+
+### ⚡ Cyber Security • Cloud • DevOps • Automation
+
+</p>
