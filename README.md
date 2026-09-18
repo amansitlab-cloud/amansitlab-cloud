@@ -1,145 +1,335 @@
-<div align="center">
+<!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=250&section=header&text=SYSTEM%20BREACH%3A%20AMAN&fontSize=45&fontColor=00ff41&fontAlignY=40&animation=twinkling&desc=ACCESS%20GRANTED%20%E2%80%94%20WELCOME%20TO%20THE%20MAINFRAME&descAlignY=60&descSize=16&descColor=c9d1d9" width="100%"/>
+<!--                    CYBERPUNK HEADER                       -->
 
-</div>
+<!-- ========================================================= -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AMAN%20SHARMA&fontSize=64&fontColor=00FF88&stroke=00FF88&strokeWidth=1&animation=twinkling&color=0:050505,50:001a0d,100:000000&fontAlignY=52&desc=CYBER%20SECURITY%20%2F%2F%20CLOUD%20%2F%2F%20DEVOPS&descAlignY=72&descSize=17" width="100%"/>
+</p>
 
-```
-[sudo] password for aman: ********
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=800&lines=Security+is+a+mindset%2C+not+a+tool.;Cyber+Security+%7C+Ethical+Hacking;AWS+%7C+DevOps+%7C+Linux+%7C+Networking;Python+%7C+Automation+%7C+Cloud+Security;Building+%7C+Breaking+%7C+Securing" />
+</p>
 
-Booting AmanOS v3.1.4 ...
-[OK] Loading kernel modules: cybersecurity.ko, ethical-hacking.ko, linux.ko
-[OK] Mounting /dev/knowledge on /students
-[OK] Starting service: teach.service ......... ACTIVE (running)
-[OK] Starting service: hack.service .......... ACTIVE (ethical mode)
-[OK] Firewall status .......................... ENABLED
-[WARN] Caffeine levels ........................ LOW, refill required
-[OK] System ready. Welcome back, root.
-```
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=root%40aman%3A~%23+whoami;Cybersecurity+%2B+Ethical+Hacking+Instructor;root%40aman%3A~%23+cat+mission.txt;Bana+raha+hoon+students+ko+job-ready+hackers;root%40aman%3A~%23+_" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-050505?style=flat-square&logo=github&logoColor=00FF88"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=VISITORS&color=00FF88&labelColor=050505"/>
+</p>
 
 ---
 
-<h3 align="center">👨‍💻 Neural Dump</h3>
+## `01 // IDENTITY`
 
-<table align="center">
-<tr>
-<td>
-
-```yaml
-alias: Aman
-class: Cybersecurity Instructor
-weapons:
-  - CEH curriculum
-  - RHEL & Linux internals
-  - Python & Java
-guild: TCA - The Cyber Academy
-alignment: Chaotic Good (Ethical Hacker)
-special_move: "Turns confused students into confident sysadmins"
-status: "Currently compiling knowledge.exe"
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  AMAN SHARMA                                                │
+│  ─────────────────────────────────────────────────────────  │
+│  Cyber Security Professional & Technical Trainer             │
+│                                                             │
+│  SECURITY       Ethical Hacking · Web Security              │
+│  CLOUD          AWS · Cloud Security                        │
+│  DEVOPS         Docker · Kubernetes · CI/CD                 │
+│  SYSTEMS        Linux · Networking · Automation             │
+│  CODE           Python · Bash · SQL                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+I work at the intersection of **Cyber Security, Cloud, DevOps and Automation** — with a strong focus on practical labs, infrastructure and security.
+
+My day-to-day world involves **Linux, networking, AWS, Python, containers, automation and security tooling**.
 
 ---
 
-<h3 align="center">🏆 Achievement Vault</h3>
+## `02 // TERMINAL`
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
-</div>
-
----
-
-<h3 align="center">⚔️ Arsenal</h3>
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-<br/>
-
-![Powered by Chai](https://img.shields.io/badge/Powered_by-Chai_%26_Terminal-00ff41?style=for-the-badge&logo=buymeacoffee&logoColor=black)
-![Uptime](https://img.shields.io/badge/Uptime-since_forever-00ff41?style=for-the-badge&logo=statuspage&logoColor=black)
-![Bugs](https://img.shields.io/badge/Known_Bugs-0%20(that%20I%20admit%20to)-red?style=for-the-badge)
-
-</div>
-
----
-
-<h3 align="center">📡 Live Recon</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="97%"/>
-
-</div>
-
----
-
-<h3 align="center">🐍 The Snake Exploits Your Contribution Graph</h3>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-
----
-
-<details>
-<summary align="center"><b>🕵️ Click to decrypt a secret transmission</b></summary>
-
-<br/>
-
-```
-> decrypting classified_file.enc ...
-> [██████████████████████████████] 100%
-> decryption successful.
-
-MESSAGE: "Agar tum ye padh rahe ho, matlab tum bhi curious ho —
-          aur curiosity hi ek achhe hacker ki sabse badi taakat hai.
-          Keep learning, keep breaking (things you own), keep building."
-
-> transmission ends.
+```console
+┌── aman@cyberlab ─────────────────────────────────────────────┐
+│                                                             │
+│  aman@cyberlab:~$ ./profile                                 │
+│                                                             │
+│  [✓] Identity loaded                                        │
+│  [✓] Security module loaded                                 │
+│  [✓] Cloud environment loaded                               │
+│  [✓] DevOps environment loaded                              │
+│  [✓] Python runtime loaded                                  │
+│                                                             │
+│  user       : Aman Sharma                                   │
+│  specialization : Cyber Security                            │
+│  environment    : Linux / AWS / DevOps                      │
+│  mode           : BUILD + SECURE                            │
+│  status         : ONLINE                                    │
+│                                                             │
+│  aman@cyberlab:~$ _                                         │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</details>
+---
+
+## `03 // SECURITY`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python"/>
+
+</p>
+
+```text
+SECURITY STACK
+
+  Offensive Security
+  ├── Reconnaissance
+  ├── Web Application Security
+  ├── Vulnerability Assessment
+  ├── Network Security
+  └── Security Testing
+
+  Defensive Security
+  ├── Linux Hardening
+  ├── Monitoring
+  ├── Log Analysis
+  ├── Network Visibility
+  └── Security Automation
+```
 
 ---
 
-<h3 align="center">🔗 Establish Connection</h3>
+## `04 // CLOUD + DEVOPS`
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
-[![Website](https://img.shields.io/badge/TCA%20Website-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://your-tca-site.example.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab"/>
 
-</div>
+</p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=150&section=footer" width="100%"/>
+```text
+                    ┌──────────────┐
+                    │     AWS      │
+                    └──────┬───────┘
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+           Docker      Terraform     Ansible
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                      Kubernetes
+                           │
+                           ▼
+                       CI / CD
+                           │
+                           ▼
+                  Secure Deployment
+```
 
-<sub>connection closed. exit code 0.</sub>
-</div>
+---
+
+## `05 // NETWORK`
+
+```text
+                        INTERNET
+                            │
+                            ▼
+                     ┌────────────┐
+                     │  FIREWALL  │
+                     └─────┬──────┘
+                           │
+                  ┌────────┴────────┐
+                  │                 │
+                  ▼                 ▼
+               ROUTING           SWITCHING
+                  │                 │
+              ┌───┴───┐        ┌────┴────┐
+              │       │        │         │
+             OSPF    NAT      VLAN      STP
+              │       │        │         │
+              └───────┴────────┴─────────┘
+                           │
+                           ▼
+                     SECURE NETWORK
+```
+
+**Networking:** TCP/IP · IPv4 · IPv6 · VLAN · Trunking · STP · OSPF · NAT · DHCP · DNS · VPN
+
+---
+
+## `06 // CODE`
+
+```python
+from aman import security
+from aman import cloud
+from aman import automation
+
+class CyberEngineer:
+
+    domains = [
+        security,
+        cloud,
+        automation
+    ]
+
+    def build(self):
+        return "secure infrastructure"
+
+    def automate(self):
+        return "repeatable systems"
+
+    def learn(self):
+        return "never stop"
+```
+
+**Languages & Tools**
+
+`Python` `Bash` `SQL` `JavaScript` `Git` `Linux`
+
+---
+
+## `07 // LAB`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                       CYBER LAB                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  KALI LINUX        → Security Testing                       │
+│  RHEL              → Linux Administration                   │
+│  AWS               → Cloud Infrastructure                    │
+│  DOCKER            → Containers                             │
+│  KUBERNETES        → Orchestration                          │
+│  ANSIBLE           → Configuration Automation               │
+│  TERRAFORM         → Infrastructure as Code                │
+│  JENKINS/GITLAB    → CI/CD                                  │
+│  PROMETHEUS        → Monitoring                             │
+│  GRAFANA           → Observability                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `08 // SELECTED WORK`
+
+### 🔐 Security Labs
+
+Practical environments for **web security, network security, Linux security and vulnerability assessment**.
+
+### ☁️ AWS Infrastructure
+
+Cloud environments involving **EC2, S3, IAM, VPC and security controls**.
+
+### ⚙️ Infrastructure Automation
+
+Automating Linux infrastructure with **Ansible and Terraform**.
+
+### 🐳 Containerized Applications
+
+Building and deploying applications using **Docker and Kubernetes**.
+
+### 📊 Observability Stack
+
+Monitoring infrastructure and applications using **Prometheus + Grafana**.
+
+### 🐍 Security Automation
+
+Python-based utilities for **automation, system administration and security workflows**.
+
+---
+
+## `09 // TRAINER MODE`
+
+```text
+              KNOWLEDGE
+                  │
+        ┌─────────┼─────────┐
+        ▼         ▼         ▼
+     SECURITY    CLOUD    DEVOPS
+        │         │         │
+        ▼         ▼         ▼
+     PRACTICAL  HANDS-ON  AUTOMATION
+        │         │         │
+        └─────────┼─────────┘
+                  ▼
+              REAL WORLD
+```
+
+I enjoy turning complex technical concepts into **hands-on labs and practical workflows**.
+
+---
+
+## `10 // GITHUB`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=777777" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FF88&text_color=FFFFFF"/>
+</p>
+
+---
+
+## `11 // CONTRIBUTION MATRIX`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+## `12 // CONNECT`
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=00FF88"/>
+</a>
+
+</p>
+
+---
+
+## `13 // SYSTEM MESSAGE`
+
+```console
+aman@cyberlab:~$ ./shutdown
+
+Saving workspace................. OK
+Securing environment............. OK
+Closing session................... OK
+
+[ SYSTEM REMAINS ONLINE ]
+
+aman@cyberlab:~$ _
+```
+
+<!-- ========================================================= -->
+
+<!--                      CUSTOM FOOTER                        -->
+
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=00FF88"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=700&color=00FF88&center=true&vCenter=true&width=500&lines=%5B+CONNECTION+SECURED+%5D;%5B+SESSION+TERMINATED+%5D;%5B+AMAN_SHARMA+%2F%2F+CYBERLAB+%5D"/>
+</p>
+
+<p align="center">
+  <sub>© Aman Sharma • Cyber Security • Cloud • DevOps</sub>
+</p>
